@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Concesionario Esquina del Automotor</title>
-</head>
 <body>
     <h1>Concesionario Esquina del Automotor - Proyecto Web</h1>    
     <h2>Índice</h2>
