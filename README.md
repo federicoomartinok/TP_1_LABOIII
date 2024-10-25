@@ -56,3 +56,19 @@
     <p>Este proyecto fue realizado como parte de un curso de desarrollo web.</p>
 </body>
 </html>
+
+Mejoras Potenciales en el Proyecto
+
+Una posible mejora para el proyecto sería optimizar la validación de los formularios de Sign In y Sign Up. Actualmente, se implementa la validación básica de HTML5, pero se podría agregar validación personalizada con JavaScript para mejorar la experiencia del usuario. Esto permitiría proporcionar retroalimentación en tiempo real y aseguraría que los datos ingresados sean correctos antes de enviarse.
+Qué Haría de Manera Diferente con Más Tiempo
+
+Con tiempo adicional, se podrían realizar las siguientes mejoras en el sitio web:
+
+    Interactividad con JavaScript: Implementaría lógica adicional, como un sistema de autenticación básico y la capacidad de filtrar autos por características en la página de inicio.
+    Optimización de Imágenes: Para reducir los tiempos de carga, se podrían optimizar las imágenes de los autos mediante técnicas como lazy loading o versiones específicas para dispositivos móviles.
+    Más Contenido y Funcionalidades: Agregar una sección de reseñas de clientes, detalles adicionales de los autos en venta, o incluso un blog para compartir tendencias y novedades del sector automotriz mejoraría la experiencia del usuario y aportaría valor adicional.
+
+Desafíos Principales del Proyecto
+
+El aspecto más desafiante fue lograr que el diseño fuera completamente responsivo y funcional en diferentes tamaños de pantalla y dispositivos. Utilizar flexbox para organizar los elementos de manera flexible ayudó en gran medida, pero requirió varios ajustes para asegurar una experiencia de usuario óptima en dispositivos móviles y de escritorio.
+Inspiración para el Proyecto.
