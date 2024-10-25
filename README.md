@@ -52,8 +52,6 @@
         <li><strong>Optimización de imágenes</strong>: Las imágenes de autos podrían optimizarse mejor para reducir tiempos de carga, usando técnicas como el lazy loading o diferentes versiones para dispositivos móviles.</li>
         <li><strong>Más contenido</strong>: Podría agregar una sección con reseñas de clientes, más detalles sobre los autos en venta, y tal vez un blog para mantener a los usuarios informados sobre tendencias automotrices.</li>
     </ul>
-    <p>Las imágenes de autos se obtuvieron de sitios web gratuitos como <strong>Pixabay</strong> y <strong>Freepik</strong>.</p>
-    <p>Este proyecto fue realizado como parte de un curso de desarrollo web.</p>
 </body>
 </html>
 
